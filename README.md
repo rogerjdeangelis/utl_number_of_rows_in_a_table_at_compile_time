@@ -1,0 +1,1 @@
+# utl_number_of_rows_in_a_table_at_compile_time
